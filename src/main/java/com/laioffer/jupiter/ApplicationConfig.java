@@ -1,5 +1,6 @@
 package com.laioffer.jupiter;
 
+
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 
@@ -7,3 +8,4 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @EnableWebMvc
 public class ApplicationConfig {
 }
+
